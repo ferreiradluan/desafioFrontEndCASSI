@@ -22,8 +22,6 @@ export default function ConfirmacaoReconhecidoPage() {
         <div className="w-full max-w-[1280px] mx-auto px-4 py-4 flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center relative gap-2">
-            <AppIcon />
-            <span className="ml-2 font-bold text-xl text-[#002d4b]">Desafio CASSI</span>
             <img src="/images/cassi-logo-figma.png" alt="CASSI" className="w-[105.85714721679688px] h-[52px] ml-2" />
           </div>
 
