@@ -1,6 +1,6 @@
 # Desafio CASSI
 
-Projeto desenvolvido com **React**, **Next.js 15** e **TypeScript**, implementando um sistema de notificação de intermediação preliminar (NIP) para a CASSI com componentes reutilizáveis e testes automatizados.
+Projeto desenvolvido com **React**, **Next.js 15** e **TypeScript**
 
 ## 📋 Índice
 
@@ -279,18 +279,6 @@ export default function Component({ ...props }: ComponentProps) {
 - **Tailwind**: Tema customizado com cores da CASSI
 - **Jest**: Configurado para Next.js com jsdom
 - **ESLint**: Regras padrão do Next.js
-
-## 📋 Funcionalidades Implementadas
-
-- ✅ Sistema de navegação consistente
-- ✅ Fluxo completo de confirmação NIP
-- ✅ Componentes reutilizáveis e modulares
-- ✅ Design responsivo e acessível
-- ✅ Testes automatizados abrangentes
-- ✅ Integração com APIs mockadas
-- ✅ Estados de loading e erro
-- ✅ Validação de formulários
-- ✅ Tema visual consistente da CASSI
 
 ---
 
